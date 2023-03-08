@@ -1,1 +1,8 @@
-/*# sourceMappingURL=quote.css.map */
+.quote-container {
+  margin: 1rem;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 0);
+  text-align: center;
+}/*# sourceMappingURL=quote.css.map */

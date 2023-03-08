@@ -1,1 +1,17 @@
-/*# sourceMappingURL=time.css.map */
+.time-container {
+  margin: 1rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.time-container p {
+  font-size: 3.5rem;
+  color: white;
+  margin: 1rem 0;
+  padding: 0;
+}
+.time-container .time {
+  font-size: 2rem;
+}/*# sourceMappingURL=time.css.map */

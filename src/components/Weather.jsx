@@ -18,8 +18,9 @@ const Weather = () => {
   if(!data) return null;
 
   return (
-    <div>
-      <p>{data.current.temp_c}&deg;C</p>
+    <div className='weather-container'>
+      <h1>{data.current.temp_c}&deg;C</h1>
+      <h2>Warsaw</h2>
     </div>
   )
 }

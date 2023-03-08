@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"quote.css"}
+{"version":3,"sources":["quote.scss","quote.css"],"names":[],"mappings":"AAAA;EACI,YAAA;EACA,kBAAA;EACA,SAAA;EACA,SAAA;EACA,6BAAA;EACA,kBAAA;ACCJ","file":"quote.css"}
